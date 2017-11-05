@@ -1,0 +1,27 @@
+h1 {  
+        float:right;
+        border: 1px solid black;
+      }
+      h2 {
+        float:right;
+        border: 1px solid black;
+      }
+      h3 {
+        float:right;
+        border: 1px solid black;
+      }
+      #p1 {
+        border: 1px solid black;
+        margin:20px;
+        padding:15px;
+      }
+      #p2 {
+        border: 1px solid black;
+        margin:20px;
+        padding:15px;
+      }
+      #p3 {
+        border: 1px solid black;
+        margin:20px;
+        padding:15px;
+      }
